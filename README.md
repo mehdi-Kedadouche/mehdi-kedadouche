@@ -16,13 +16,14 @@ Je suis Mehdi Kedadouche , un passionné de développement et un adepte de l'ope
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 ## Mes compétences
 - Langages de programmation : Python, JavaScript, HTML, CSS
-- Frameworks : Django, React, Node.js
+- Frameworks :Symfony, React, Node.js
 - Bases de données : MySQL, MongoDB
 - Outils : Git, Docker
 
 ## Mes projets
 - [Mon Cv en Html/Css/JS](https://github.com/mehdi-Kedadouche/Cv-Kedadouche-mehdi) - Création de mon Cv en utilisant Html/Css et JavaScript.
 - [Api GitHub](https://github.com/mehdi-Kedadouche/Api-GitHub) - Petit site creer avec du Html/Css et JavaScript qui permet d'afficher un profil GitHub grace à l'API Github.
+- [Jeu "Le Juste Prix"](https://github.com/mehdi-Kedadouche/Le-Juste-Prix/tree/main) - Conception du fameux jeu " Le juste Prix " .
 
 ### Talking about Personal Stuffs:
 
