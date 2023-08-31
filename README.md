@@ -24,6 +24,7 @@ Je suis Mehdi Kedadouche , un passionné de développement et un adepte de l'ope
 - [Mon Cv en Html/Css/JS](https://github.com/mehdi-Kedadouche/Cv-Kedadouche-mehdi) - Création de mon Cv en utilisant Html/Css et JavaScript.
 - [Api GitHub](https://github.com/mehdi-Kedadouche/Api-GitHub) - Petit site creer avec du Html/Css et JavaScript qui permet d'afficher un profil GitHub grace à l'API Github.
 - [Jeu "Le Juste Prix"](https://github.com/mehdi-Kedadouche/Le-Juste-Prix/tree/main) - Conception du fameux jeu " Le juste Prix " .
+- [ Site Météo ](https://github.com/mehdi-Kedadouche/ApiMeteo) - Site de Météo en utilisant une Api openweathermap
 
 ### Talking about Personal Stuffs:
 
